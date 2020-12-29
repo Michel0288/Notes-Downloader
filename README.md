@@ -1,1 +1,1 @@
-Python web scraper to downlaod my notes from OURVLE
+Python web scraper to download my notes from OURVLE
